@@ -31,6 +31,6 @@ Final project for the Robotics class, developed in MATLAB, focusing on motion pl
 
 🎶 Fun Facts
 
-I love sports (I play rugby since I was a child) and hicking!
+I love sports (I play rugby since I was a child) and hiking!
 
 If you're interested in human-robot interaction, embedded development, or brain-inspired AI, feel free to explore my repositories and reach out!
