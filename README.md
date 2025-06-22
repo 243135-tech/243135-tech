@@ -23,9 +23,9 @@ Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/luca-boggi
 Here are some of the projects I've been working on recently:
 
 🧠 BCI_development
-Development of a 2-class Motor Imagery Brain-Computer Interface using MATLAB. This project focuses on EEG signal processing and classification methods for real-time neurofeedback.
+Development of a 2-class Motor Imagery Brain-Computer Interface. This project focuses on EEG signal processing and classification methods for real-time neurofeedback via Unity game for the control of an upper limb exoskeleton.
 👁️ Perception_project
-Final project for the Perception course, implemented in Python with Jupyter Notebooks. It involves image processing, feature extraction, and object detection techniques for robotic vision.
+It involves image processing, feature extraction, and object detection techniques for robotic vision.
 🤖 RoboticsProject
 Final project for the Robotics class, developed in MATLAB, focusing on motion planning, kinematics, and autonomous navigation in simulated environments.
 
