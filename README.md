@@ -24,10 +24,12 @@ Here are some of the projects I've been working on recently:
 
 🧠 BCI_development
 Development of a 2-class Motor Imagery Brain-Computer Interface. This project focuses on EEG signal processing and classification methods for real-time neurofeedback via Unity game for the control of an upper limb exoskeleton.
+
 👁️ Perception_project
 It involves image processing, feature extraction, and object detection techniques for robotic vision.
-🤖 RoboticsProject
-Final project for the Robotics class, developed in MATLAB, focusing on motion planning, kinematics, and autonomous navigation in simulated environments.
+
+🤖 Robocup
+Developed in a team programs for running automatically a 4-wheels robot machine in order to compete in the danish Robocup 2025. Thanks to our strategy and its implementation we reached the final.
 
 🎶 Fun Facts
 
